@@ -1,8 +1,5 @@
-layout_spectrum: 0.06383074
-typography_spectrum: 0.2816653
 color:
   saturation: 0.5645207
-  lightness: 0.3035239
   brandStrength: 0.2599747
   rhythmicContrast: 0.06870053
   brandColors:
@@ -11,4 +8,19 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
+  lightness: 0.3035239
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.06383074
+typography_spectrum: 0.2816653
 name: chrisjones
