@@ -1,14 +1,7 @@
-color:
-  saturation: 0.5645207
-  brandStrength: 0.2599747
-  rhythmicContrast: 0.06870053
-  brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  lightness: 0.3035239
+name: graffiti
+favicon: null
+layout_spectrum: 0.06383074
+typography_spectrum: 0.2816653
 collections:
   - index:
       path: /
@@ -21,6 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.06383074
-typography_spectrum: 0.2816653
-name: chrisjones
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.2599747
+  lightness: 0.3035239
+  saturation: 0.5645207
+  rhythmicContrast: 0.06870053
+purpose: []
